@@ -17,7 +17,7 @@ library(shinyBS)
 #Directory = "H:/000_Coastal_Related/00_ESRC Coastal Classification/03_DataPortal/02_PrepareData/02_CSVDataForMaps/DataSeries/"
 #DataList = setDT(read.csv(paste0(Directory,"00_DataList.csv")))
 print(getwd())
-DataList = setDT(read.csv("./02_CSVDataForMaps/DataSeries/00_DataList.csv"))
+DataList = setDT(read.csv("./00_DataList.csv"))
 #DataList = setDT(gitData)
 #print(paste0("Input DataList contains ",nrow(DataList)," items"))
 #print("Headings of DataList follows:")
