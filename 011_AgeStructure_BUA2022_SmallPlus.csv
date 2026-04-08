@@ -1,0 +1,1291 @@
+BUA22CD,BUSA22NM,ResPop65plus,ResPop75plus,ResPop85plus
+E63000001,Berwick-upon-Tweed,27.5,12.6,3.8
+E63000015,Alnwick,28.1,13.1,4
+E63000021,Amble,26.5,12.2,3
+E63000037,Newbiggin-by-the-Sea,25.8,11.2,2.8
+E63000040,Ashington (Northumberland),20,8.3,1.9
+E63000041,Morpeth,28.7,14.1,4.6
+E63000042,Stakeford,25.4,12.4,3.2
+E63000048,Bedlington,22.1,9.9,2.8
+E63000050,Blyth (Northumberland),19.8,8.3,2.2
+E63000053,Cramlington,23.4,9.2,2.1
+E63000056,Seaton Delaval,23.5,10.4,2.3
+E63000061,Whitley Bay,23.5,10.9,3.2
+E63000062,Wideopen,25.9,12.6,4.2
+E63000064,Ponteland,31.9,16.8,5.6
+E63000066,Killingworth,21,8.1,1.9
+E63000067,Shiremoor,16.1,6.8,2
+E63000072,Longbenton,18.4,8.4,2.7
+E63000073,Tynemouth,21.1,9.6,2.8
+E63000076,Wallsend,18.3,7.4,1.9
+E63000077,Newcastle upon Tyne,14.7,6.6,2
+E63000078,Throckley,20.6,10.3,3.3
+E63000087,South Shields,20.8,9.4,2.6
+E63000090,Hebburn,16.8,7.2,2.3
+E63000093,Ryton,21.8,10.3,2.8
+E63000094,Jarrow,20.8,8.8,2.2
+E63000097,Hexham,28.8,14.1,4.6
+E63000098,Prudhoe,21.3,9.2,2.3
+E63000099,Blaydon,21.6,10.7,3
+E63000100,Crawcrook and Greenside,22.8,10.9,3
+E63000102,Whitburn (South Tyneside),27.3,12.9,3.6
+E63000103,Boldon Colliery,19,7.4,1.9
+E63000104,East Boldon and West Boldon,25.3,12,3.9
+E63000106,Whickham,27.8,13.1,3.7
+E63000111,Gateshead,18.2,8.4,2.5
+E63000120,Rowlands Gill,25.9,12,2.9
+E63000124,Washington,22.3,8.4,1.9
+E63000125,Sunderland,19.9,9.1,2.6
+E63000130,Birtley,20.4,9.7,2.7
+E63000133,Carlisle,19,8.7,2.5
+E63000148,Pelton and Ouston,22.7,11.1,2.6
+E63000151,Shiney Row and Penshaw,19.2,8.5,2.3
+E63000153,Stanley (County Durham),19.7,8.7,2.3
+E63000155,Annfield Plain,20.4,8.9,2.2
+E63000158,Chester-le-Street,24.8,12.2,3.4
+E63000161,Consett,18.9,8.5,2.3
+E63000165,Fence Houses,16.1,5.9,1.7
+E63000166,Houghton-le-Spring,21.8,10.5,2.9
+E63000168,Seaham,20.4,9.2,2.7
+E63000170,Wigton,26,12.8,3.6
+E63000175,Sacriston,19.1,8.2,1.8
+E63000176,Hetton-le-Hole,24.9,12.3,3.2
+E63000177,Murton (County Durham),20.4,9.6,2.5
+E63000187,Easington (County Durham),21.6,10.1,3.6
+E63000190,Durham,17.4,8.1,2.1
+E63000191,Ushaw Moor and Bearpark,17.1,6.9,1.3
+E63000197,Horden,20.8,10.1,2.8
+E63000199,Peterlee,18.9,8.6,2.2
+E63000203,Brandon (County Durham),19.7,8.5,2.1
+E63000214,Wingate,17.1,7.2,1.8
+E63000221,Maryport,23,10.6,2.7
+E63000228,Crook,21.3,9.3,2
+E63000231,Willington (County Durham),21.7,9.3,2.5
+E63000232,Spennymoor,20.2,8.1,2.2
+E63000242,Hartlepool,19.7,8.6,2.4
+E63000244,Ferryhill,24.1,10.2,2.3
+E63000254,Seaton (Allerdale),24.2,11.2,2.6
+E63000255,Cockermouth,27.9,13.5,4.3
+E63000257,Penrith,23.2,11.8,3.9
+E63000267,Bishop Auckland,21.4,9.4,2.7
+E63000268,Workington,19.8,8.7,2.3
+E63000278,Shildon,20.8,8.5,2.5
+E63000283,Newton Aycliffe,21.2,9.6,2.7
+E63000288,Redcar,20.6,9.6,2.6
+E63000298,Billingham,21.1,9.5,2.6
+E63000300,Marske-by-the-Sea,32.6,16.9,4.2
+E63000306,Saltburn-by-the-Sea,31.9,16.5,4.8
+E63000311,Stockton-on-Tees,18.9,8.3,2.3
+E63000312,Brotton,23.8,10.6,2.2
+E63000316,Eston,19.8,8.6,2
+E63000317,Skelton (Redcar and Cleveland),21.1,8.2,1.7
+E63000323,Thornaby-on-Tees,18.6,7.6,2.1
+E63000324,Middlesbrough,17,7.3,2
+E63000326,Whitehaven,21.2,9.5,2.5
+E63000329,Barnard Castle,29.8,15.3,5.2
+E63000336,Guisborough,27.4,12.6,3.5
+E63000338,Cleator Moor,20.6,9.2,2.4
+E63000339,Darlington,19.8,9.1,2.6
+E63000343,Egglescliffe,23.4,11.1,2.9
+E63000346,Ingleby Barwick,10.7,3.7,0.9
+E63000349,Yarm,24.2,10.5,2.5
+E63000353,Egremont,22.3,10.1,2.4
+E63000356,Whitby,27.2,12.1,3.4
+E63000382,Richmond,28.6,13.9,3.6
+E63000390,Catterick Garrison,8.3,3.6,1
+E63000396,Northallerton,25.5,12.3,4
+E63000400,Kendal,23.7,11.3,3.5
+E63000425,Scarborough,23.7,11,3.2
+E63000436,Pickering,34,17,4.9
+E63000449,Thirsk,24.4,12.1,3.6
+E63000454,Filey,37.6,19.1,5.3
+E63000458,Millom,22.4,10.5,2.5
+E63000474,Ulverston,25.8,12.2,3.1
+E63000498,Dalton-in-Furness,21.8,10.6,2.6
+E63000508,Malton,22.6,12.2,3.9
+E63000510,Ripon,24.7,12.8,4.1
+E63000512,Norton-on-Derwent,21.4,9.8,3
+E63000517,Carnforth,23.4,11,3.1
+E63000520,Easingwold,31.1,16.1,4.6
+E63000521,Barrow-in-Furness,21.4,9.7,2.4
+E63000530,Bridlington,31.6,15.1,4
+E63000536,Bolton-le-Sands,31.8,15,4.3
+E63000551,Morecambe,24.6,12.4,3.8
+E63000558,Heysham,21.5,10.2,2.8
+E63000560,Lancaster,14.4,6.2,1.8
+E63000563,Strensall,19.2,8.7,2.3
+E63000581,Haxby,32.9,16.2,5.2
+E63000582,Driffield,27.7,13.8,4.1
+E63000586,Knaresborough,25.1,12.1,3.5
+E63000598,Huntington (York),26.9,13.8,3.9
+E63000601,Harrogate,20.9,10.2,3.3
+E63000615,York,15.9,7.4,2.2
+E63000617,Skipton,23.7,10.9,3
+E63000629,Pocklington,23.9,11.3,3
+E63000631,Wetherby,30.5,16.1,4.7
+E63000639,Ilkley,29.8,16.7,6.1
+E63000642,Hornsea,34.3,16,4.1
+E63000649,Barnoldswick,21,8.9,2.4
+E63000651,Fleetwood,22.8,10.7,3
+E63000655,Silsden,25.7,11.6,3.6
+E63000657,Burley in Wharfedale,22.7,10.5,3.2
+E63000660,Garstang,39.1,21,6
+E63000661,Otley (Leeds),25.6,12.1,3.3
+E63000667,Boston Spa,27.5,14.2,3.5
+E63000675,Steeton,19.7,8.9,2.6
+E63000681,Menston,22.3,10.8,3.5
+E63000687,Cleveleys,33.1,16.4,4.7
+E63000694,Tadcaster,25.3,12.3,3.3
+E63000699,Thornton (Wyre),26.1,12.7,3.2
+E63000702,Guiseley,21.7,10.5,3.4
+E63000707,Market Weighton,22.8,10.4,2.9
+E63000708,Clitheroe,21.8,10.6,3.2
+E63000710,Yeadon,22,9.9,2.7
+E63000713,Keighley,15.1,6.5,1.9
+E63000719,Colne,19.7,8.6,2.6
+E63000724,Poulton-le-Fylde,29.1,15.1,4.8
+E63000725,Barrowford,25.3,11.7,3.1
+E63000726,Beverley,25.3,12.1,3.7
+E63000727,Bingley,23.4,11,3.6
+E63000731,Rawdon,18.4,8.3,2.3
+E63000733,Baildon,25.4,11.6,3.2
+E63000746,Nelson (Pendle),12.4,5.4,1.6
+E63000748,Haworth,21.6,9.1,2.8
+E63000751,Shipley (Bradford),16.1,7.2,2.4
+E63000752,Longridge (Ribble Valley),23.5,10.9,2.9
+E63000768,Brierfield,16.2,7.5,2
+E63000784,Leeds,12.6,5.6,1.7
+E63000789,Pudsey,18.2,8.6,2.7
+E63000792,Blackpool,21,9.9,2.7
+E63000793,Padiham,18.8,8.2,2.1
+E63000799,Cottingham,29.9,15,4.6
+E63000800,Burnley,17.3,7.6,2
+E63000801,Garforth,25.2,12.8,3.5
+E63000803,Bradford,11.5,4.9,1.5
+E63000804,Sherburn in Elmet,16.8,7.4,2.4
+E63000806,Thornton (Bradford),19.6,8,1.7
+E63000807,Fulwood,21.9,11,3.4
+E63000811,Great Harwood,20.7,9.7,2.3
+E63000813,Cottam (Preston),9.4,3.4,0.9
+E63000814,Selby,17.3,8.1,2.4
+E63000817,Kirkham,20.9,10.1,2.7
+E63000824,Clayton-le-Moors,19.6,7.8,2.1
+E63000825,Kingston upon Hull,15.4,6.5,1.9
+E63000830,Preston (Preston),11.3,4.8,1.4
+E63000837,Kippax,22.6,10.7,2.6
+E63000841,Rishton,20.3,9.4,2
+E63000843,Queensbury,17,6.9,1.8
+E63000846,Willerby and Anlaby,27.4,14.1,4.4
+E63000851,Allerton Bywater,17.7,8.6,2.3
+E63000852,Church,16,6.9,1.8
+E63000853,Gildersome,21.8,10.6,3
+E63000854,Drighlington,22.1,9.7,2
+E63000855,Lytham St Anne's,32.3,16.6,5.3
+E63000856,Hedon,28.7,13.2,3.9
+E63000857,Gomersal and Birkenshaw,21,10.1,2.8
+E63000859,Rothwell (Leeds),20.6,10,2.7
+E63000864,Accrington,15,6.8,1.9
+E63000867,Withernsea,30.6,12.6,3
+E63000869,Blackburn (Blackburn with Darwen),13.4,5.8,1.6
+E63000873,Morley (Leeds),16.3,7,1.8
+E63000874,Penwortham,23.4,10.8,3
+E63000875,Hebden Bridge,19.4,6.8,2
+E63000878,Oswaldtwistle,22.8,10.4,2.6
+E63000879,Shelf and Northowram,24.3,10.9,2.7
+E63000887,Hessle,20.8,10.1,3.3
+E63000891,Brough (East Riding of Yorkshire),17.7,8.7,2.4
+E63000893,Bamber Bridge,19.7,8.8,2.3
+E63000900,Halifax,16.3,7.4,2.1
+E63000904,East Ardsley,19.3,8.5,2.2
+E63000906,Cleckheaton,19.5,8.7,2.3
+E63000910,Castleford,15.9,6.9,1.7
+E63000916,Batley,14.4,6,1.5
+E63000918,Longton,28.4,13.9,3.8
+E63000926,Todmorden,20.1,8.5,2.5
+E63000927,Heckmondwike,15,6.9,2
+E63000930,Goole,17.9,8.3,2.5
+E63000932,Liversedge,20,8.6,2.1
+E63000934,Normanton (Wakefield),18.6,8.2,2.1
+E63000936,Rawtenstall,19.3,8,2.2
+E63000937,Brighouse,22.5,10.5,2.8
+E63000939,Knottingley,17.4,7.9,2.3
+E63000945,Darwen,18.2,7.6,2
+E63000947,Leyland,20.4,8.9,2.3
+E63000948,Bacup,17.2,6.8,1.4
+E63000949,Tarleton and Hesketh Bank,25.7,11.7,2.7
+E63000956,Barton-upon-Humber,22.4,9.6,2.6
+E63000957,Pontefract,18.8,8.7,2.3
+E63000959,Haslingden,20.6,9.4,2.6
+E63000967,Elland,19.8,9,2.4
+E63000970,Dewsbury,12.8,5.6,1.6
+E63000971,Wakefield,17.2,7.6,2
+E63000975,Featherstone (Wakefield),18.6,8.7,2
+E63000979,Ossett,22.7,10,2.4
+E63000980,Mirfield,24.2,11.9,3.1
+E63000984,Euxton,15.1,6.6,1.7
+E63000998,Crofton,21.2,9,1.6
+E63001000,Horbury,22.1,10.2,3
+E63001007,Whitworth,20.5,9.1,2.2
+E63001008,Chorley,19.5,8.8,2.2
+E63001017,Huddersfield,16.1,7.5,2.2
+E63001020,Crigglestone and Durkar,22.1,9.2,2.1
+E63001022,Littleborough,22.5,9.9,2.5
+E63001024,Ackworth Moor Top,17.6,7.7,1.8
+E63001029,Southport,25.8,12.9,4.1
+E63001033,Moorends,15.4,6.5,1.4
+E63001037,Ramsbottom,22.9,10.4,2.5
+E63001040,Immingham,21.6,10,2.8
+E63001053,Havercroft and Ryhill,18.5,8.2,2.1
+E63001055,Linthwaite and Slaithwaite,17.1,7.5,1.9
+E63001057,Coppull,21,9.8,2.3
+E63001060,Adlington (Chorley),23.3,10.9,2.5
+E63001061,Upton (Wakefield),16.6,6.9,1.5
+E63001062,Askern,14.2,5.8,1.2
+E63001063,Thorne,20.9,9.7,2.7
+E63001069,Rochdale,14.6,6.3,1.7
+E63001073,Hemsworth,22.4,10.4,2.3
+E63001077,Milnrow,21.6,9.1,1.8
+E63001082,Burscough,21.6,9.7,2.5
+E63001085,Royston (Barnsley),18.9,8.3,2.2
+E63001086,Stainforth,17.2,7.4,1.9
+E63001088,South Elmsall,19.7,9.6,2.5
+E63001095,Horwich,19.1,8.3,2.1
+E63001096,South Kirkby,17.4,7.3,1.9
+E63001098,Bury (Bury),18.5,8.4,2.1
+E63001101,Meltham,22.8,10.8,3
+E63001106,Blackrod,25,12.5,3.2
+E63001109,Bolton (Bolton),15.9,7.2,2
+E63001110,Darton,23.1,10.8,2.8
+E63001112,Scunthorpe,18.4,8.7,2.6
+E63001114,Standish,20.8,9.5,2.4
+E63001116,Cudworth and Shafton,18.4,8.2,2
+E63001117,Honley,24.3,11,2.8
+E63001118,Heywood,16.8,6.7,1.6
+E63001124,Appley Bridge,24.9,10.9,2.3
+E63001126,Shaw (Oldham),23.1,10.9,2.4
+E63001128,Grimsby,17.8,7.9,2.3
+E63001129,Dunscroft and Hatfield,22.1,10.6,2.9
+E63001130,Grimethorpe,14.4,6,1.5
+E63001134,Adwick le Street,18.4,8,2.2
+E63001136,Shevington,28.2,13.7,3.8
+E63001142,Royton,22.8,10.2,2.2
+E63001148,Barugh Green and Redbrook,21.6,9.4,2.4
+E63001149,Cleethorpes,22.4,10.3,2.9
+E63001151,Radcliffe,17.1,7.4,1.9
+E63001152,Ormskirk,21.8,11.2,3.2
+E63001153,Little Lever,23.4,9.4,1.7
+E63001154,Brigg,27.2,12.9,4.3
+E63001155,Formby,31.4,17,4.8
+E63001157,Kirk Sandall and Edenthorpe,25.6,11.4,3.1
+E63001160,Barnsley,17.8,7.9,2
+E63001167,Skelmersdale,15.6,6.6,1.4
+E63001168,Middleton (Rochdale),16.6,6.9,1.9
+E63001172,Farnworth,14.1,6.3,1.6
+E63001173,Whitefield,18.5,8.7,2.4
+E63001177,Wigan,18.5,8.2,1.9
+E63001178,Thurnscoe,17.8,8.1,2.3
+E63001179,Westhoughton,19.9,8,1.9
+E63001180,Humberston and New Waltham,28.5,14.9,3.9
+E63001181,Dodworth,23.4,10.5,2.9
+E63001182,Uppermill,26.7,12.2,2.9
+E63001184,Scawthorpe and Cusworth,20,9.7,2.8
+E63001187,Kearsley,17.2,7.3,1.6
+E63001190,Bentley (Doncaster),14.6,6.4,1.6
+E63001191,Armthorpe,21.2,9.5,2.6
+E63001192,Oldham,10.3,4.2,1.1
+E63001194,Lees,21.8,10,2.5
+E63001195,Ince-in-Makerfield,14.1,5.8,1.4
+E63001197,Darfield,23.4,10.1,2.5
+E63001198,Hindley,20.9,9.6,2
+E63001199,Orrell,22.3,10.8,2.7
+E63001203,Chadderton,16.6,7.2,1.9
+E63001204,Worsbrough,20.8,10.1,3.2
+E63001205,Goldthorpe,14.8,6.7,1.5
+E63001207,Little Hulton,13.5,5.7,1.5
+E63001209,Lydiate,26.9,13.8,4
+E63001210,Prestwich,15,6.7,2
+E63001213,Atherton,19.8,9.3,2.2
+E63001214,Waltham,31.6,15.7,4.8
+E63001218,Penistone,20.7,8.4,2.3
+E63001219,Wombwell,16.2,7,1.8
+E63001221,Bolton upon Dearne,16.8,6.4,1.5
+E63001222,Walkden,18,8.2,2.1
+E63001224,Platt Bridge and Abram,16.9,6.7,1.4
+E63001226,Mossley,16.8,6.4,1.5
+E63001227,Clifton (Salford),17,7.6,2
+E63001228,Sprotbrough,24,12.2,3.4
+E63001229,Doncaster,16.8,7.4,2.2
+E63001232,Maghull,26.6,13.5,4.3
+E63001237,Tyldesley,17.8,6.7,1.4
+E63001241,Swinton (Salford),17.4,8.1,2.2
+E63001250,Rainford,33,17.2,4.9
+E63001254,Failsworth,19.5,10,2.3
+E63001256,Worsley,22.7,10.7,3
+E63001258,Wath upon Dearne,17.9,8.2,2.4
+E63001259,Hoyland,21.7,10,2.7
+E63001260,Leigh (Wigan),18.1,8.3,1.8
+E63001263,Mexborough,17.8,8,2
+E63001268,Ashton-under-Lyne,15.9,6.8,1.6
+E63001269,Ashton-in-Makerfield,24.1,11,2.4
+E63001273,Crosby (Sefton),21.9,10,2.8
+E63001274,Salford,9.3,4,1.1
+E63001278,Stalybridge,17.8,7.4,1.9
+E63001279,Finningley,13.2,5.1,1.2
+E63001280,Swinton (Rotherham),21.5,9.5,2.4
+E63001281,Eccles (Salford),13.8,6.4,1.8
+E63001282,Aintree,26.8,13.8,4.9
+E63001283,Conisbrough,19.6,8.6,2.5
+E63001284,Kirkby,15.2,5.2,1.5
+E63001285,Droylsden,17,7.5,1.8
+E63001286,Warmsworth,18.3,8.5,2.4
+E63001290,Stocksbridge,25.2,12.7,3.4
+E63001291,Litherland,17.6,7.5,1.8
+E63001293,Deepcar,22.5,10.3,2.3
+E63001294,Golborne,20.6,9,1.8
+E63001295,Manchester,8.9,3.9,1.1
+E63001297,Dukinfield,18.6,8.1,2.1
+E63001298,New Rossington and Rossington,19,8.5,2.5
+E63001299,Audenshaw,17.9,8.1,2.4
+E63001301,Haydock,23.1,10.4,2.9
+E63001305,Old Trafford,10.3,4.8,1.7
+E63001306,Chapeltown and High Green,25.3,11.5,2.7
+E63001307,Rawmarsh,17.9,8.2,2
+E63001310,Bootle (Sefton),16.3,7,1.9
+E63001313,Hadfield,20.3,8.7,2.3
+E63001314,Culcheth,25.3,13.7,4.3
+E63001318,Newton-le-Willows,15.1,7,1.9
+E63001320,Hyde (Tameside),16.6,7.3,1.8
+E63001321,Urmston,21.1,10.1,2.8
+E63001323,Denton (Tameside),20,9.4,2.3
+E63001324,Thrybergh and Dalton,19.8,9.1,2.2
+E63001325,St Helens (St. Helens),18.9,8.2,2.1
+E63001326,Stretford,13.4,5.8,1.7
+E63001328,Hattersley,11.8,4.7,1
+E63001334,Irlam,16.9,8.4,2.2
+E63001336,Ecclesfield and Grenoside,28.1,14.4,3.8
+E63001337,Glossop,20.7,8.8,2.1
+E63001339,Reddish,15.8,7,1.8
+E63001350,Rotherham,16.8,7.8,2.2
+E63001357,Wickersley and Bramley,23.7,11.2,2.9
+E63001358,Maltby,19.5,8.8,2.3
+E63001360,Bredbury and Woodley,21.5,9.9,2.8
+E63001361,Harworth and Bircotes,18,8.7,2.2
+E63001362,Wallasey,20.2,8.9,2.5
+E63001363,Sale,18.5,8.8,2.6
+E63001364,Partington,15.4,6.8,1.9
+E63001365,Prescot,20.7,10.1,2.7
+E63001367,Huyton with Roby,17.3,8.2,2.4
+E63001370,Romiley,27.9,14.7,4.3
+E63001374,Liverpool,15.5,6.6,1.8
+E63001378,Stockport,15.8,6.9,2
+E63001383,Meols,27.5,12.1,3.7
+E63001384,Gainsborough,18.5,8.3,2.1
+E63001385,Brinsworth,21.1,10.2,2.5
+E63001391,Thurcroft,16.2,7.1,1.8
+E63001393,Marple,27.6,13.7,4
+E63001394,Wythenshawe,15.2,6.5,1.9
+E63001395,Altrincham,17.7,8.8,2.7
+E63001397,Hoylake,26.9,15.2,6.3
+E63001400,Warrington,18.2,8.2,2
+E63001402,Gatley,22,11.3,3.7
+E63001403,Birkenhead,18.5,8.1,2.3
+E63001404,Cheadle (Stockport),20.2,9.8,3
+E63001406,Waverley and Catcliffe,7,2.4,0.1
+E63001411,Louth,24.5,12,3.3
+E63001415,Greasby,29.4,13.4,4.1
+E63001418,Lymm,22,11.2,3
+E63001421,Bowdon,25.4,13.1,4.1
+E63001422,West Kirby,28,13.6,4.3
+E63001423,Hazel Grove,24,12.3,3.6
+E63001424,Sheffield,16.1,7.6,2.2
+E63001425,Widnes,18.3,7.9,2
+E63001426,Dinnington (Rotherham),17.5,8,2
+E63001429,Cheadle Hulme,21.8,10.8,3.3
+E63001432,New Mills,20.2,8.6,1.9
+E63001434,Swallownest and Aston,21.2,9.5,2.3
+E63001435,Bramhall,27,14.5,4.5
+E63001437,Mablethorpe,38.1,17,3.8
+E63001438,North Anston,24.3,10.9,2.3
+E63001439,Carlton in Lindrick,27.8,12.2,3
+E63001440,Hale (Trafford),20.3,10.2,3.1
+E63001460,Poynton,30.4,15.1,4.2
+E63001464,Bebington,22.8,10.7,2.9
+E63001466,Kiveton Park,19,8.6,1.9
+E63001468,Heswall,30.7,15.4,4.8
+E63001481,Runcorn,18.3,6.7,1.6
+E63001487,Retford,22.4,10.7,3.2
+E63001489,Wilmslow,20.3,9.4,2.8
+E63001496,Killamarsh,21.9,8.9,2.1
+E63001497,Chapel-en-le-Frith,23.6,10.9,2.7
+E63001498,Sutton on Sea and Trusthorpe,49.6,23.6,5.7
+E63001506,Worksop,19.6,9.1,2.4
+E63001513,Eckington (North East Derbyshire),22.5,10.4,2.9
+E63001517,Dronfield,29.2,15.1,3.9
+E63001518,Knutsford,24.6,13.2,3.9
+E63001524,Neston (Cheshire West and Chester),29.3,13.9,3.6
+E63001535,Frodsham,26.6,13.2,3.7
+E63001536,Bollington,23.6,10.9,2.9
+E63001554,Ellesmere Port,18.1,8.2,2.3
+E63001559,Clowne,22.5,9.7,2.7
+E63001568,Barnton,21.7,8.8,2.1
+E63001574,Helsby,24.4,13.1,3.9
+E63001583,Creswell,18.8,9.1,2.2
+E63001588,Staveley (Chesterfield),19.4,8.5,2.1
+E63001589,Weaverham,23.8,11.1,2.7
+E63001591,Macclesfield,20.3,9.4,2.6
+E63001592,Northwich,14.8,6.2,1.8
+E63001596,Brimington,22.3,10.8,3
+E63001599,Buxton (High Peak),22.5,10.8,3
+E63001607,Hartford,23.3,10.9,2.8
+E63001616,Chesterfield,22.1,10.2,2.8
+E63001618,Cuddington (Cheshire West and Chester),26.2,12.5,3.7
+E63001622,Davenham,20.1,8.9,2.3
+E63001629,Bolsover,21.7,9.8,2.5
+E63001641,Washingborough and Heighington,28.7,14.3,3.8
+E63001642,Horncastle,27,13.9,3.8
+E63001650,Lincoln,14.4,6.6,2
+E63001662,New Ollerton and Ollerton,19.2,8.3,2.1
+E63001663,Market Warsop,20.6,9.1,2.1
+E63001665,Bracebridge Heath,19.2,9.9,3.1
+E63001666,Shirebrook,16.1,7.8,1.9
+E63001667,Wingerworth,30.3,14.4,3.3
+E63001669,Holmes Chapel,27.4,14,3.9
+E63001677,North Hykeham,22.3,11.5,3
+E63001681,Edwinstowe,26.8,13.1,3.7
+E63001685,Winsford,16.7,7.5,1.7
+E63001686,North Wingfield and Holmewood,20.3,9.2,2.2
+E63001688,Middlewich,19.6,8.6,2.2
+E63001702,Waddington (North Kesteven),18.9,9.3,2.3
+E63001708,Mansfield Woodhouse,20.6,9.3,2.1
+E63001711,Clay Cross,20.9,10,2.7
+E63001715,Congleton,23,10.7,3
+E63001717,Skegness,26.1,11.7,2.9
+E63001723,Forest Town,17.7,8,2.1
+E63001735,Elworth,16.4,7.7,2.3
+E63001738,Sandbach,25.3,12.5,3.2
+E63001739,Matlock,26.2,12.2,3.6
+E63001740,Mansfield,18.5,8.5,2.5
+E63001754,Sutton in Ashfield,20,9.7,2.6
+E63001757,Huthwaite,16.9,6.9,1.1
+E63001760,Rainworth,19.2,8.8,2.3
+E63001779,Coningsby and Tattershall,16.9,8.2,2.3
+E63001780,Biddulph,25.4,12,3
+E63001792,Leek,23.6,11.1,3.6
+E63001795,Kirkby-in-Ashfield,17.8,7.8,2
+E63001796,Haslington,25.1,11.9,3.3
+E63001797,South Normanton and Pinxton,18.9,8.5,2.1
+E63001801,Alfreton,19.7,8.9,2.6
+E63001803,Alsager,26.8,14,4
+E63001804,Crewe,16.2,7.4,2
+E63001808,Ravenshead,30.8,15.3,4
+E63001813,Kidsgrove,22.8,10.2,2.4
+E63001825,Newark-on-Trent,18.2,7.9,2.2
+E63001828,Annesley Woodhouse,25.3,11.8,2.6
+E63001829,Southwell (Newark and Sherwood),30,15.5,4.6
+E63001830,Somercotes and Swanwick,21.5,9.2,2.1
+E63001832,Selston,24.6,11.3,2.9
+E63001845,Nantwich,24.5,12.7,4.3
+E63001853,Balderton,21.4,10.6,2.9
+E63001862,Ruskington,28.8,14.8,3.6
+E63001880,Calverton,23.2,10.6,2.8
+E63001882,Ripley (Amber Valley),23.5,10.6,2.6
+E63001889,Hucknall,18.2,8.8,2.2
+E63001899,Belper,22.3,9.9,2.6
+E63001901,Werrington,29.5,14.4,3.8
+E63001908,Newcastle-under-Lyme,20.5,10,3
+E63001910,Eastwood,24.7,11.8,2.9
+E63001911,Heanor,18.9,8.2,1.9
+E63001915,Ashbourne,23.2,11.4,3.7
+E63001918,Sleaford,20.3,9.6,2.6
+E63001927,Arnold,21.3,10,2.8
+E63001951,Nuthall and Watnall,23.5,10.9,3
+E63001952,Boston,17.5,8.5,2.6
+E63001958,Stoke-on-Trent,17.1,7.7,2
+E63001966,Cheadle (Staffordshire Moorlands),25.5,11.7,2.5
+E63001974,Sheringham,40.2,21.2,6.5
+E63001982,Carlton (Gedling),19.9,9.2,2.7
+E63001986,Whitchurch (Shropshire),23.9,11.6,3.7
+E63001987,West Hallam,28.4,13.3,4
+E63001992,Nottingham,11.4,5.1,1.4
+E63001993,Cromer,36.7,18.1,5.8
+E63001995,Blythe Bridge and Forsbrook,28,13.6,3.4
+E63001997,Ilkeston,18.2,8.3,2.2
+E63002010,Bingham,21.4,10.6,2.8
+E63002020,Radcliffe on Trent,31.5,16.9,6
+E63002027,Kirton (Boston),19.2,9.2,3
+E63002042,Stapleford,18.8,8.8,2.2
+E63002051,West Bridgford,17.4,8.2,2.9
+E63002057,Beeston (Broxtowe),20.9,10.3,3.2
+E63002062,Sandiacre,21.5,10.7,3.3
+E63002069,Grantham,19,8.6,2.4
+E63002077,Cotgrave,18.2,8.5,2.2
+E63002078,Derby,16,7.5,2.2
+E63002082,Borrowash,24.4,12.4,3.7
+E63002087,Market Drayton,24.6,12.5,3
+E63002092,Clifton (Nottingham),16.6,8,3.4
+E63002098,Breaston and Draycott,27.3,12.9,3.3
+E63002100,Uttoxeter,19,9,2.7
+E63002109,Stone (Stafford),23,11,3.1
+E63002111,Ruddington,20.5,10,3.2
+E63002115,Long Eaton,18.9,8.7,2.2
+E63002136,Keyworth,31.4,17.2,5
+E63002146,Hilton (South Derbyshire),11,4.3,0.9
+E63002149,North Walsham,29.4,15.3,4.9
+E63002152,Fakenham,29.5,15,5
+E63002164,Oswestry,22.7,11.5,3.4
+E63002167,Wem,26.7,13.5,4
+E63002183,Castle Donington,20.6,9.3,2
+E63002198,Aylsham,30.8,15.1,4.7
+E63002206,East Leake,20.5,10,2.6
+E63002222,Holbeach,25.9,13.4,4.2
+E63002255,Long Sutton (South Holland),34.2,18.7,5.2
+E63002256,Burton upon Trent,15.3,6.8,1.9
+E63002259,Stafford,19.4,9.5,2.6
+E63002275,Spalding,19.5,9.8,2.9
+E63002284,King's Lynn,18,8.7,2.6
+E63002295,Bourne,21.9,11,3.4
+E63002300,Swadlincote,18.6,7.8,1.8
+E63002304,Melton Mowbray,21.9,10.3,2.8
+E63002315,Woodville,12.4,4.8,1
+E63002317,Loughborough,14.5,6.6,1.9
+E63002320,Newport (Telford and Wrekin),23.6,11.2,2.9
+E63002323,Shepshed,21.9,10,2.7
+E63002336,Rugeley,20.2,9.5,2.5
+E63002351,Hemsby,36.7,16.5,4.1
+E63002357,Barrow upon Soar,21.8,9.5,2.2
+E63002366,Ashby-de-la-Zouch,21.1,9.5,2.7
+E63002374,Quorndon,25.1,12.1,3.7
+E63002386,Whitwick,25.2,12,3.1
+E63002388,Overseal and Castle Gresley,18.9,8.4,2.2
+E63002395,Sileby,16.5,7,1.9
+E63002408,Coalville,16.7,7.2,1.9
+E63002413,Taverham and Drayton,23.3,11.7,3.3
+E63002415,Mountsorrel,17.8,8.7,2.4
+E63002425,Penkridge,25.9,12.1,3
+E63002444,Shrewsbury,21.1,10.1,2.8
+E63002445,Dereham,23.7,12,3.3
+E63002465,Caister-on-Sea,32.1,15.9,4.3
+E63002466,Measham,19.4,8.4,1.6
+E63002472,Syston,21,9.4,2.8
+E63002477,Cannock,18.6,8.4,2.1
+E63002492,Ibstock,18.4,8.2,1.9
+E63002496,Market Deeping,25.3,11.4,3.3
+E63002505,Telford,16.6,7.2,1.8
+E63002507,Norwich,17.8,8.6,2.7
+E63002509,Wisbech,20.1,9.4,2.9
+E63002511,Deeping St James,22.6,9.3,2.3
+E63002516,Birstall,20.9,10.6,3.3
+E63002522,Lichfield,24.4,12.1,3.3
+E63002524,Thurmaston,21.9,10,2.9
+E63002526,Burntwood,25,12.1,2.3
+E63002527,Oakham,26.8,14.1,4.1
+E63002532,Anstey,21.4,10.5,2.7
+E63002534,Bayston Hill,28.4,14.1,3.8
+E63002537,Swaffham,32.9,17.6,5.6
+E63002550,Norton Canes,19.1,9,2.1
+E63002551,Shifnal,20.1,9.9,2.5
+E63002557,Stamford,22.6,11.3,3.3
+E63002565,Groby,25,11.5,2.9
+E63002573,Great Wyrley and Cheslyn Hay,24.5,11.3,2.3
+E63002574,Great Yarmouth,15.7,7,1.8
+E63002594,Featherstone (South Staffordshire),11.4,4.6,0.9
+E63002597,Hethersett,23.8,12.1,3.4
+E63002598,Brownhills,19.5,9.6,2.4
+E63002610,Albrighton,21.3,12.2,3.8
+E63002621,Bradwell (Great Yarmouth),26.7,12.7,3.2
+E63002622,Leicester,12.6,5.4,1.6
+E63002628,Pelsall,24.2,12.7,3.2
+E63002636,Downham Market,29.8,16.6,5.6
+E63002637,Gorleston-on-Sea,22.4,11,3.1
+E63002638,Codsall,25,13.5,3.7
+E63002639,Leicester Forest East and Kirby Muxloe,19.4,10.3,3.3
+E63002642,Eye (Peterborough),18.4,8.3,2.1
+E63002644,Tamworth,18.8,8.1,2
+E63002651,Poringland,24.4,12.3,3.7
+E63002656,Broseley,26.4,11,2.7
+E63002666,Fazeley,21,9,2.2
+E63002669,Wymondham (South Norfolk),21.4,10.7,3.2
+E63002672,Bloxwich,15.5,7.2,2.1
+E63002675,Rushall and Shelfield,20.5,10.2,2.9
+E63002681,Aldridge,27.5,15,4.7
+E63002683,Watton,24.3,12.2,3.7
+E63002684,Oadby,19.7,10,3.4
+E63002688,Polesworth and Dordon,19.3,8.7,2.3
+E63002696,Perton,23.2,8.7,2.3
+E63002699,Willenhall,17.9,8,2
+E63002710,Enderby and Narborough,18.8,8.4,2.2
+E63002711,Wigston,22.3,11.4,3.5
+E63002713,Wolverhampton,16.9,8.1,2.5
+E63002720,Peterborough,13.3,6,1.8
+E63002731,Streetly,26.2,14.5,4.2
+E63002733,Atherstone,21.3,10.2,2.7
+E63002734,Walsall,14,6.6,2
+E63002740,Earl Shilton,20.3,9.4,2.8
+E63002748,March,24.7,12.2,3.3
+E63002750,Barwell,21,9.2,2.2
+E63002751,Blaby and Whetstone,20.6,10.2,2.8
+E63002753,Whittlesey,23.8,11.2,3.1
+E63002757,Darlaston,11.7,5.1,1.3
+E63002760,Royal Sutton Coldfield,23.2,11.7,3.6
+E63002772,Bilston (Wolverhampton),13.7,6.1,1.6
+E63002778,Pheasey,18.9,10.8,3.5
+E63002780,Countesthorpe,23.5,10.5,2.4
+E63002782,Wednesbury,16.9,7.6,2.2
+E63002787,Attleborough,23.4,11.7,3.3
+E63002797,Kibworth Beauchamp and Kibworth Harcourt,20.8,9.7,3.2
+E63002801,Hinckley,20.4,9.3,2.6
+E63002812,Tipton,13.7,6.2,1.5
+E63002814,Bridgnorth,28,13.9,3.7
+E63002815,Coseley,19.7,10.1,2.8
+E63002821,Wombourne,26.1,13.5,3.8
+E63002822,Long Stratton,20.7,10.5,3.2
+E63002823,Broughton Astley,18,6.9,1.8
+E63002827,Lowestoft,24.9,12.2,3.5
+E63002828,West Bromwich,15.4,7.3,2.1
+E63002829,Yaxley (Huntingdonshire),18.6,7.9,1.8
+E63002830,Sedgley,23.5,12.2,3.4
+E63002831,Coleshill (North Warwickshire),24.1,12.2,4
+E63002833,Nuneaton,18,8,2
+E63002862,Dudley (Dudley),14.7,7,2.1
+E63002864,Beccles,28.1,14,4.3
+E63002871,Bungay,29.2,15.1,5.7
+E63002876,Corby,13,5.5,1.4
+E63002880,Oldbury (Sandwell),15.5,7.2,2
+E63002882,Oundle,23.3,11.8,3.4
+E63002884,Kingswinford,23.9,12.3,3.1
+E63002887,Rowley Regis,15.6,7.4,1.8
+E63002889,Smethwick,10.5,4.8,1.4
+E63002901,Market Harborough,22.9,11.6,3.5
+E63002903,Bulkington,34.7,18.7,4.3
+E63002904,Birmingham,12.6,5.8,1.7
+E63002906,Littleport,17.3,8.6,2.9
+E63002907,Blackheath,17.7,8.6,1.9
+E63002909,Brandon (West Suffolk),24.4,12.1,3.2
+E63002913,Brierley Hill,18.1,7.6,1.8
+E63002915,Bedworth,21,9.8,2.5
+E63002918,Chatteris,20.2,9.7,2.8
+E63002919,Cradley Heath,16.6,8,2.5
+E63002927,Ramsey,22.9,11.1,3
+E63002929,Lutterworth,21.7,10.7,2.8
+E63002941,Halesowen,21.5,10.2,2.7
+E63002944,Stourbridge,22.7,11,3.2
+E63002951,Desborough,20.3,8.7,2.2
+E63002952,Sawtry,19.6,8.9,2.4
+E63002956,Harleston,28.7,14.8,4.4
+E63002958,Thetford,15.9,7.5,2.1
+E63002980,Rothwell (North Northamptonshire),20.6,8.1,1.9
+E63002991,Ely,19.9,10.1,3
+E63002995,Hagley,22.7,13.3,3.9
+E63002996,Diss,26.3,14.3,4.6
+E63003006,Coventry,14.4,6.9,2
+E63003011,Solihull,22,11.3,3.6
+E63003015,Thrapston,16.4,6.7,1.7
+E63003016,Kettering,17.2,8.1,2.2
+E63003035,Balsall Common,24.8,12.7,3.8
+E63003044,Hollywood,27.9,14.3,3.7
+E63003049,Kidderminster,22,10.3,2.6
+E63003068,Rugby,16.7,8.3,2.3
+E63003073,Bewdley,32.5,15.4,3.7
+E63003075,Knowle and Dorridge,26.4,13.6,4.2
+E63003081,Mildenhall (West Suffolk),18.9,9.2,2.7
+E63003087,Ludlow,32.3,17,5.5
+E63003088,Burton Latimer,15.9,7.1,1.6
+E63003119,Catshill,22.3,10.3,2.8
+E63003126,Cawston (Rugby),9.1,4.5,1.4
+E63003129,Soham,16.9,8,2.5
+E63003134,Raunds,20.6,8.7,2.3
+E63003136,Huntingdon,15,7.1,2.1
+E63003147,St Ives (Huntingdonshire),21,9.6,2.6
+E63003152,Kenilworth,26.4,14,4.3
+E63003157,Stourport-on-Severn,28.2,13.7,3.5
+E63003177,Irthlingborough,17.6,7.7,2.1
+E63003178,Brampton (Huntingdonshire),17.5,8.7,2.5
+E63003192,Bromsgrove,20,9.6,2.9
+E63003193,Brixworth,18,7.4,2.2
+E63003199,Red Lodge,6,2.3,0.6
+E63003204,Godmanchester,16.7,7.4,1.7
+E63003218,Higham Ferrers,19.6,8.9,2.5
+E63003230,Wellingborough,15.9,7.2,2.1
+E63003251,Cottenham,22.5,10.8,3.6
+E63003260,Burwell,23.2,11.3,3.4
+E63003267,Rushden,19.5,8.9,2.4
+E63003268,Redditch,18.2,7.5,1.8
+E63003269,Longstanton and Northstowe,9.2,4.3,0.9
+E63003278,Royal Leamington Spa,15.9,7.7,2.4
+E63003283,Waterbeach,16,7.7,2.4
+E63003308,Warwick,16.6,7.7,2.2
+E63003313,Bury St Edmunds,22,11.4,3.3
+E63003319,Earls Barton,20.8,8.8,2
+E63003321,Newmarket,18.1,8.9,2.7
+E63003328,Studley,25.9,13.3,3.7
+E63003332,Histon and Impington,23.3,12,4.6
+E63003342,Daventry,16.5,7.2,1.8
+E63003344,Whitnash,18.5,9.5,2.8
+E63003350,Droitwich Spa,22.9,10.9,3
+E63003358,Leiston,25.5,11.9,3.2
+E63003369,Southam (Stratford-on-Avon),20.4,10.6,3.2
+E63003390,Northampton,14.5,6.5,1.9
+E63003403,St Neots,18.6,8.7,2.3
+E63003414,Cambourne,5.4,2.7,0.7
+E63003426,Leominster,24.9,12.3,3.9
+E63003439,Stowmarket,18.5,8.9,2.8
+E63003443,Cambridge (Cambridge),11.2,5.3,1.6
+E63003447,Alcester,29.2,15.2,4.6
+E63003490,Worcester,17.2,7.9,2.2
+E63003491,Needham Market,28,14.4,4.6
+E63003496,Wellesbourne,23.4,11.7,3.2
+E63003502,Stratford-upon-Avon,24.3,12.3,3.9
+E63003551,Great Shelford and Stapleford,25.4,13.5,4.8
+E63003553,Bidford-on-Avon,19.5,8.8,2.3
+E63003563,Olney,24.6,11.6,3.5
+E63003597,Bedford,15.6,7.4,2.5
+E63003598,Sandy,18.3,7.6,2.1
+E63003614,Sawston,22.5,10.8,3.4
+E63003618,Potton,19.8,8.1,2.3
+E63003623,Woodbridge,32.8,17.9,6.5
+E63003643,Towcester,16.7,6.8,2.1
+E63003664,Kempston,15.8,6.6,1.8
+E63003695,Great Malvern,26.7,13.3,4.2
+E63003697,Pershore,29.5,15.6,4.5
+E63003709,Haverhill,16.4,7.5,2
+E63003712,Kesgrave,20.3,10.2,3.1
+E63003723,Wootton (Bedford),14.8,7,1.7
+E63003736,Ipswich,16.8,7.8,2.4
+E63003738,Wixams,7.8,3.7,1.1
+E63003740,Biggleswade,15.4,6.9,2
+E63003760,Newport Pagnell,21.1,9.1,2.7
+E63003770,Evesham,19.3,9,2.7
+E63003775,Hadleigh,26.7,14,4.5
+E63003783,Cranfield,13.7,6.3,1.1
+E63003795,Marston Moretaine,11.7,4.8,1.1
+E63003805,Sudbury,23.1,11.7,3.2
+E63003814,Royston (North Hertfordshire),19.7,9.1,2.6
+E63003818,Banbury,15.1,7.1,2
+E63003822,Shipston-on-Stour,27.4,13.9,4.1
+E63003830,Hereford,19,9.4,2.8
+E63003845,Shefford,16.2,7.4,2.4
+E63003858,Milton Keynes,11.6,4.4,1.1
+E63003866,Saffron Walden,20.9,10.5,3.8
+E63003882,Brackley,16.3,7.5,2.3
+E63003884,Ampthill,18.2,9.4,2.9
+E63003888,Ledbury,31.6,16.8,5.5
+E63003898,Stotfold,15.9,6.8,1.6
+E63003899,Arlesey,14.5,5.8,1.7
+E63003927,Flitwick,17.6,7.6,2
+E63003946,Felixstowe,29.3,14.5,4.4
+E63003956,Buckingham,17.6,8.1,2.3
+E63003957,Baldock,18.7,9.5,3.2
+E63003960,Bletchley,16.1,7.4,2
+E63003977,Letchworth,20.1,10.1,3.1
+E63003982,Moreton-in-Marsh,25.2,13,4.1
+E63003985,Tewkesbury,21.3,10.3,2.8
+E63004012,Harwich,24.8,11.9,3.3
+E63004016,Halstead (Braintree),20.6,10,2.7
+E63004029,Buntingford,18.9,8.9,2.3
+E63004031,Hitchin,17.4,8.6,2.9
+E63004063,Winslow,23.2,11.4,2.9
+E63004070,Bishop's Cleeve,21.3,11.1,3.4
+E63004082,Chipping Norton,24.1,12.5,3.8
+E63004097,Newent,24.8,12.4,3.2
+E63004104,Colchester,14.6,6.9,2.1
+E63004105,Leighton Buzzard,17.1,7.7,2.1
+E63004113,Stevenage,14.8,6.9,2.2
+E63004118,Stansted Mountfitchet,16,7.6,2.3
+E63004125,Ross-on-Wye,28.5,14.5,4.5
+E63004127,Houghton Regis,12.3,4.9,1.4
+E63004136,Braintree,18,8.4,2.5
+E63004145,Luton,12,5.6,1.6
+E63004154,Bicester,13.3,6,1.7
+E63004157,Wivenhoe,25.3,11.8,2.7
+E63004164,Berechurch,12.6,4.8,1.5
+E63004165,Great Dunmow,21.1,10.5,3.4
+E63004173,Cheltenham,18.6,9.2,2.9
+E63004175,Dunstable,16.8,8,2.1
+E63004180,Walton-on-the-Naze,39.4,20.1,5.8
+E63004186,Takeley and Little Canfield,14.3,6.2,1.3
+E63004187,Great Notley,15.7,6.9,1.6
+E63004191,Bishop's Stortford,15.6,7.3,2.4
+E63004192,Churchdown,21.4,11.2,3.2
+E63004193,Kirby Cross,35.4,17.8,5.6
+E63004269,Gloucester,17.1,8.2,2.4
+E63004275,Brightlingsea,28,13.7,3.6
+E63004289,Brockworth,13.6,6,1.7
+E63004294,Tiptree,26.4,12.7,3
+E63004300,Clacton-on-Sea,29.9,15,4.3
+E63004312,Witham,17.6,7.7,1.9
+E63004320,Sawbridgeworth,21.9,10.4,2.8
+E63004324,Ware,18.5,9.4,3.3
+E63004326,Harpenden,17.7,9.1,2.8
+E63004327,Cinderford,21.6,9.7,2.5
+E63004332,Kidlington,22.8,11.5,3.9
+E63004341,Jaywick,38.1,19.5,5
+E63004343,Quedgeley and Hardwicke,12.3,5.1,1.3
+E63004347,Aylesbury,12.4,5.4,1.6
+E63004349,Welwyn Garden City,16.3,7.9,2.7
+E63004353,West Mersea,36.7,18.2,5.1
+E63004358,Hertford,16.3,7.8,2.4
+E63004360,Aston Clinton,19.6,8.1,1.8
+E63004362,Redbourn,24.5,12.9,4
+E63004371,Tring,20.3,9.7,2.8
+E63004387,Coleford (Forest of Dean),25.4,12.8,4
+E63004405,Witney,19.6,10,3.3
+E63004408,Harlow,14.5,6.6,2.1
+E63004413,Eynsham,23.8,12.6,3
+E63004421,Hatfield,9.9,4.7,1.6
+E63004422,Haddenham (Buckinghamshire),24.1,11.9,3
+E63004426,Wendover,18.5,9.8,3.1
+E63004427,Hoddesdon,18.6,8.9,2.5
+E63004435,Berkhamsted,19.6,9.4,3.1
+E63004441,St Albans,14.8,7.1,2.3
+E63004442,Chelmsford,16.6,8,2.4
+E63004443,Maldon,23.8,11.7,3.4
+E63004449,Hemel Hempstead,15.4,7.1,2.3
+E63004458,Oxford,12.1,5.7,1.8
+E63004461,Carterton,12.7,5.9,1.4
+E63004471,Thame,21.7,10.6,3.3
+E63004474,Stonehouse (Stroud),21.4,9.9,3.2
+E63004476,Danbury,28.4,14.4,4.3
+E63004484,Stroud,20.7,9.3,2.6
+E63004509,Chiswell Green,25.5,13.1,4.1
+E63004514,Bovingdon,19.2,9.3,2.5
+E63004521,London Colney,16.1,6.8,1.7
+E63004526,Princes Risborough,28.3,16,5.9
+E63004531,Chalford,24.5,11.5,3.1
+E63004537,Lydney,22.7,10.5,2.8
+E63004539,Galleywood,25.8,12.2,3
+E63004541,Chesham,17.7,8.9,2.7
+E63004542,Cheshunt,17.1,8.4,2.5
+E63004551,Abbots Langley and Kings Langley,19,9.2,3
+E63004569,Epping,20.2,9.6,3.2
+E63004573,Potters Bar,21.9,11.3,3.9
+E63004576,Cirencester,23.5,12.1,4.1
+E63004586,Chinnor,20.4,9.2,2.4
+E63004589,Waltham Cross,13.1,6.5,2
+E63004592,Waltham Abbey,17.8,8.7,2.5
+E63004597,Prestwood and Great Missenden,25.4,13.5,4.2
+E63004604,Cam,25.4,11.7,3.4
+E63004611,Radlett,21.2,11.1,3.5
+E63004612,Nailsworth,25.5,11.6,3.7
+E63004617,Ingatestone,24.5,13.3,4.8
+E63004632,Amersham,20.5,10.8,3.5
+E63004647,Abingdon-on-Thames,20,9.5,2.7
+E63004650,Dursley,19.3,9.7,3.1
+E63004660,South Woodham Ferrers,20.2,7.5,2
+E63004663,Little Chalfont,18.9,9.6,3
+E63004665,Borehamwood,13.4,5.9,1.9
+E63004669,Loughton,16.2,7.8,2.4
+E63004673,Burnham-on-Crouch,26.3,12.4,3.2
+E63004678,Bushey,19.6,10.2,3
+E63004685,Chorleywood,21.5,10.8,3.9
+E63004689,Hazlemere,24.8,12.3,3.3
+E63004690,Watford (Watford),13.2,6.1,1.7
+E63004697,Faringdon,18.1,8.6,2.4
+E63004701,Billericay,22,11.1,3.3
+E63004703,Runwell,23,12.5,3.9
+E63004705,Hullbridge,31.2,15.3,3.5
+E63004708,Rickmansworth,18.5,8.9,2.9
+E63004713,Brentwood,18.5,9.3,3.2
+E63004716,Buckhurst Hill,18.3,9.1,2.8
+E63004722,Tetbury,25.9,12.4,3.3
+E63004724,Ashingdon,25.7,12.2,3
+E63004733,Moor Park,22.5,10.9,3.6
+E63004734,Wickford,19.7,9.3,2.6
+E63004735,High Wycombe,12.1,5.6,1.8
+E63004736,Hockley and Hawkwell,23.7,11.9,3.1
+E63004738,Chigwell,17.1,8.1,2.5
+E63004742,Highworth,26.9,12.2,3.4
+E63004757,Benson,16.7,8.8,2.2
+E63004759,Rayleigh,23.2,11.6,3.6
+E63004763,Rochford,19,9.2,3
+E63004769,Beaconsfield,21,11.6,3.9
+E63004772,Didcot,11.2,5.1,1.4
+E63004773,Chalfont St Peter,22.9,12,4
+E63004775,Broad Blunsdon,14.4,6.7,1.9
+E63004776,Thornbury,23.2,11.8,3.4
+E63004777,Flackwell Heath and Wooburn Green,20.8,10.2,2.8
+E63004778,Grove (Vale of White Horse),20.4,9.4,2.5
+E63004780,Shrivenham and Watchfield,16.4,7.6,1.7
+E63004784,Wallingford,21.4,11.3,3.7
+E63004799,Basildon,14.5,6.4,1.8
+E63004807,Wantage,20.2,10.4,3.5
+E63004808,Thundersley and South Benfleet,24.9,12.6,3.5
+E63004812,Gerrards Cross,21.7,11.3,4
+E63004817,Great Wakering,21.4,9.1,2.6
+E63004820,Southend-on-Sea,19.2,9.2,2.8
+E63004821,Malmesbury,21.4,11.2,3.6
+E63004822,Stratton St Margaret,22.5,11.4,3.3
+E63004823,Bourne End,24.2,12.2,3.4
+E63004834,Marlow,23.3,12,3.9
+E63004848,Swindon (Swindon),13.6,5.8,1.6
+E63004854,Cookham,22.5,10.7,2.8
+E63004863,Farnham Common and Farnham Royal,21.1,10.4,3.5
+E63004875,Canvey Island,25.5,11.5,2.7
+E63004883,Stanford-le-Hope,20.7,9.4,2.4
+E63004884,Yate,18.6,8.6,2.1
+E63004888,Royal Wootton Bassett,22.7,10.9,3.2
+E63004889,Iver Heath,18.9,8.5,2.8
+E63004892,Chipping Sodbury,27.9,14.8,4
+E63004893,Henley-on-Thames,24,13.8,4.3
+E63004897,South Ockendon,11.8,4.7,1.2
+E63004901,Patchway,13.1,6.6,1.7
+E63004905,Bradley Stoke,11,4.6,1
+E63004911,Frampton Cotterell and Winterbourne,24.9,13.6,3.9
+E63004918,Slough,10.3,4.4,1.3
+E63004919,Wroughton,28.8,15.9,5.4
+E63004922,Maidenhead,17.5,8.4,2.5
+E63004923,Aveley,12.3,5,1.4
+E63004926,Sonning Common,26.8,15.5,5.1
+E63004935,Filton,15.6,8.1,2.4
+E63004949,Stoke Gifford,9.9,4.6,1.5
+E63004954,East Tilbury,10.8,3.7,0.7
+E63004955,Grays,14.5,6.6,1.9
+E63004958,Chadwell St Mary,16.7,8.5,3.1
+E63004963,Chafford Hundred and West Thurrock,6,2,0.4
+E63004978,Purfleet-on-Thames,4.9,1.1,0
+E63004998,Tilbury,9.6,3.8,0.9
+E63005002,Portishead,23,11.3,3.1
+E63005004,Twyford (Wokingham),20,10.6,3.2
+E63005007,Windsor,17.5,8.8,2.9
+E63005008,Caversham,18,9,2.6
+E63005018,Kingswood and Fishponds,17.6,8.6,2.6
+E63005025,Swanscombe,10.7,4.4,1.2
+E63005027,Old Windsor and Wraysbury,23,11.4,3.5
+E63005028,Sheerness,13.2,5.6,1.3
+E63005030,Dartford,12.5,5.6,1.7
+E63005031,Stone (Dartford),8.5,3.1,0.8
+E63005037,Stanwell,12,6,1.9
+E63005039,Northfleet,13.4,6,1.8
+E63005045,Chippenham (Wiltshire),18.4,8.6,2.5
+E63005047,Woodley,18.9,9.5,2.7
+E63005052,Minster (Swale),23.2,10.2,2.1
+E63005057,Bristol,12.6,5.8,1.7
+E63005058,Gravesend,15.6,7.5,2.3
+E63005066,Hoo St Werburgh,20,9.6,2.2
+E63005074,Reading,12.7,5.8,1.7
+E63005076,Ashford (Spelthorne),17.7,8.9,2.7
+E63005090,Winnersh,13.9,6.3,1.8
+E63005096,Calne,18.9,8.4,2.3
+E63005100,Egham,12.9,6.3,2.2
+E63005103,Clevedon,26.6,13.3,4.4
+E63005105,Staines-upon-Thames,17.5,8.7,2.6
+E63005106,Long Ashton,18.3,9.1,2.8
+E63005107,Nailsea,30.3,15.3,4.6
+E63005108,Ashford Common,18.4,9.6,2.7
+E63005109,Corsham,21.8,10.4,2.9
+E63005125,Margate,23.4,11.2,3.3
+E63005127,Marlborough,24.8,13.8,5
+E63005130,Sunbury-on-Thames,17.1,8.3,2.5
+E63005132,Rochester,15.7,7,2
+E63005135,Swanley,17.7,8.2,2.4
+E63005145,Bracknell,13.3,5.7,1.6
+E63005147,Hungerford,24.5,11.4,3
+E63005149,Broadstairs,28.9,13.5,3.6
+E63005151,Shinfield,9.9,4.4,1.8
+E63005152,Keynsham,22.2,11.6,4
+E63005155,"Longfield, New Ash Green and Hartley",27.4,13.4,4
+E63005159,Virginia Water,21.2,11.1,3.5
+E63005160,Herne Bay,28.6,14.2,4.3
+E63005161,Ascot,20.4,10.4,3.5
+E63005168,Newbury,18.1,8.8,2.8
+E63005177,Shepperton,27.4,15,4.9
+E63005179,Thatcham,16.3,6.8,1.8
+E63005180,Burghfield Common,17.9,8.2,2.5
+E63005181,Wokingham,19,9.2,2.8
+E63005183,Spencers Wood and Three Mile Cross,11,4.3,1
+E63005192,Walton-on-Thames,15.8,7.9,2.5
+E63005194,Chertsey,15.5,7.4,2.2
+E63005197,Herne,22.6,9.9,2.5
+E63005199,Yatton,21.9,10.6,2.9
+E63005203,West Molesey,17.9,8.6,2.8
+E63005204,Gillingham (Medway),17.5,7.7,2
+E63005206,Whitstable,28.9,13.9,3.9
+E63005212,Chatham,14.7,6.3,1.6
+E63005214,Ramsgate,19.7,8.7,2.2
+E63005221,Weybridge,18.1,9.6,3.1
+E63005222,Worcester Park and Stoneleigh,21.4,10.4,2.8
+E63005226,Addlestone,16.7,8.7,2.9
+E63005227,Bath,16.5,8.1,2.6
+E63005233,Crowthorne,20.7,10.5,3.1
+E63005238,Sittingbourne,17,7.8,2.2
+E63005239,Hersham,15.7,7.5,2.2
+E63005243,Esher,19.4,9.4,3
+E63005246,Melksham,21.1,10.7,3.1
+E63005265,Bagshot,19.3,9.1,2.8
+E63005279,Tadley,21.9,10,2.5
+E63005285,Ewell,19.6,9.4,2.8
+E63005288,Byfleet,17.6,8.8,2.9
+E63005293,"New Haw, West Byfleet and Sheerwater",20.6,10.5,3.5
+E63005296,Lightwater,24.6,12.3,4
+E63005302,West End and Chobham,17.5,8.6,2.8
+E63005303,Snodland,15.5,6.6,1.8
+E63005306,Sandhurst (Bracknell Forest),17.8,7.4,1.8
+E63005312,Devizes,23,11.4,3.3
+E63005320,Faversham,21.5,10.2,2.9
+E63005323,Weston-super-Mare,21.2,10.3,3.1
+E63005334,Epsom,15.4,7.5,2.4
+E63005337,Bradford-on-Avon,28.7,14.1,4.6
+E63005338,Cobham (Elmbridge),19.6,9.6,3.3
+E63005342,Camberley,19,9.7,3.1
+E63005343,Yateley,24,11.2,2.7
+E63005349,Blackwater (Hart),21.3,11,2.4
+E63005355,Banstead,27.6,15.2,6.4
+E63005362,Otford and Kemsing,23.1,12.2,3.9
+E63005383,Tadworth and Epsom Downs,21.6,10.5,3.2
+E63005384,Warlingham,23.3,12.1,3.7
+E63005385,Trowbridge,18.4,8.4,2.4
+E63005388,Larkfield,19.7,9.4,2.3
+E63005398,Frimley,20.1,9.6,2.7
+E63005399,Ashtead,24.2,12.4,4.1
+E63005410,Canterbury,12.8,6.1,2
+E63005413,Woking,15.3,7.2,2.3
+E63005414,Peasedown St John,18.6,8.6,2.1
+E63005441,Paulton,20.4,10,3.1
+E63005450,Caterham,17.6,8.5,2.8
+E63005457,Leatherhead,18.5,9.7,3.2
+E63005459,Sevenoaks,18.3,9.5,3.6
+E63005464,Bearsted,28,14.3,4.2
+E63005466,Maidstone,16.4,7.8,2.3
+E63005468,Kings Hill,12.3,5.2,0.9
+E63005478,Great Bookham and Fetcham,26.5,13.7,4.2
+E63005481,Radstock,16.8,7.4,1.9
+E63005482,Farnborough,15.6,7.1,1.8
+E63005485,East Horsley,26.3,13.2,4.4
+E63005486,Hook (Hart),16,6.7,1.8
+E63005494,Midsomer Norton,22,11,3.2
+E63005505,Fleet,20.1,10.8,3.3
+E63005507,Cheddar,27.1,14.1,4.5
+E63005526,South Merstham,13.4,6.1,2
+E63005532,Aylesham,11.6,5.6,1.3
+E63005538,Basingstoke,13.9,6.2,1.6
+E63005546,Deal,28.1,13.6,3.9
+E63005549,Westbury (Wiltshire),18.6,9.1,2.5
+E63005550,Oxted,20.7,11.2,4.2
+E63005553,Coxheath,22.5,10.6,2.8
+E63005564,Ash and Ash Vale,19.5,8.8,2.4
+E63005565,Odiham,19.4,10.3,3.3
+E63005571,Aldershot,14.2,6.3,1.6
+E63005574,Ludgershall (Wiltshire),15.8,6.1,1.5
+E63005577,Guildford,13.8,6.6,2.2
+E63005579,Oakley (Basingstoke and Deane),29.9,13.3,2.9
+E63005580,Reigate,17.4,8.9,3.1
+E63005591,Burnham-on-Sea,32.9,17,5.3
+E63005598,Redhill (Reigate and Banstead),13.6,6.3,1.8
+E63005610,Dorking,20.7,10.4,3.6
+E63005616,Weybourne (Waverley),21.7,10.9,2.9
+E63005624,Tidworth,3.9,1.4,0.3
+E63005631,Frome,20.2,9.1,2.6
+E63005632,Whitchurch (Basingstoke and Deane),21.2,10.5,3.6
+E63005652,Highbridge,20.7,9.2,1.9
+E63005658,Ilfracombe,24.1,10.5,3.4
+E63005666,Edenbridge,18,9.2,3
+E63005671,Tonbridge,18.8,9.8,3.1
+E63005680,Farnham,20.1,10.7,4
+E63005681,Andover,15.5,7.5,2.2
+E63005682,Minehead,34.3,18.7,6.3
+E63005687,Wells,29.7,15.5,4.9
+E63005704,Farncombe,19,10,3.4
+E63005707,Paddock Wood,22.1,10.3,2.7
+E63005708,Warminster,24.3,12.1,3.6
+E63005711,Whitfield (Dover),24.3,12.2,3.7
+E63005718,Durrington,17.8,7.3,1.9
+E63005727,Staplehurst,22.2,10,2.8
+E63005730,Wrecclesham,22.1,10.8,3.4
+E63005741,Shepton Mallet,18.4,8.1,2.3
+E63005745,Godalming,17.3,8.5,2.5
+E63005746,Horley (Reigate and Banstead),16.3,7.5,2.5
+E63005766,Southborough,16.9,8.2,2.3
+E63005776,Ashford (Ashford),14.6,6.4,1.6
+E63005781,Dover,18,7.7,2.2
+E63005785,Pembury,24.6,12.4,3.7
+E63005802,Milford and Witley,21.1,10.7,3.8
+E63005832,Alton (East Hampshire),22.3,11.4,3.6
+E63005834,Amesbury,16.2,7.6,1.8
+E63005843,Hawkinge,17.5,8.3,2
+E63005846,Royal Tunbridge Wells,16.2,8.1,2.7
+E63005856,Cranleigh,25.6,12.9,3.3
+E63005857,Rusthall and Langton Green,22.8,11.1,3.3
+E63005861,Glastonbury,25.5,11.4,3.7
+E63005876,East Grinstead,20.9,10.1,3.1
+E63005894,Crawley Down,26.3,11.4,2.7
+E63005907,Crawley (Crawley),13.1,5.7,1.9
+E63005912,Bridgwater,15.4,7,2.1
+E63005913,Braunton,29.7,15.8,4.4
+E63005914,Folkestone,19,8.5,2.5
+E63005917,Street,21.2,10.6,3.4
+E63005931,Bordon,10.9,4.4,1.2
+E63005934,Hindhead,26.9,15.4,6
+E63005948,Four Marks,21.7,9,1.9
+E63005954,Hythe,35.2,17.8,5.4
+E63005960,Whitehill (East Hampshire),18.7,8.4,1.8
+E63005963,Tenterden,34.5,18.8,5.6
+E63005982,Barnstaple,21.8,10.7,3.2
+E63005985,Haslemere,20.6,10.5,3.9
+E63006003,New Alresford,32.1,17.9,5.4
+E63006011,Fremington,32.6,17.5,5.4
+E63006022,Liphook,20.7,10.5,3.1
+E63006026,Horsham,20.7,10.4,3.6
+E63006029,Broadbridge Heath,11.2,4.8,1.5
+E63006038,Salisbury,22,10.9,3.6
+E63006040,Crowborough,25.7,12.4,3.8
+E63006064,Winchester,17.8,9.3,3.2
+E63006073,Northam,36.1,19.4,5.7
+E63006076,Somerton,30.1,15.8,5.4
+E63006083,Wincanton,21.6,10,3.4
+E63006105,Southwater,14.9,6.4,1.7
+E63006115,Bideford,21.6,9.4,2.5
+E63006117,Gillingham (Dorset),26.8,13.8,4.4
+E63006132,South Molton,28.2,14.7,4.7
+E63006150,Billingshurst,17.7,9.2,2.7
+E63006154,Taunton,21.1,10.4,3.3
+E63006170,Haywards Heath,19.1,9.7,3.1
+E63006175,Littlestone-on-Sea,37.1,17.9,4.6
+E63006182,Petersfield,24.6,12.7,4
+E63006198,Shaftesbury,23.7,12,4
+E63006226,Romsey,26.5,13.6,4.2
+E63006230,Chandler's Ford,22.8,11.2,3.3
+E63006232,Midhurst,29.6,15.9,4.7
+E63006238,Heathfield (Wealden),24.9,12.2,3.4
+E63006241,Uckfield,21.3,10,2.8
+E63006243,Wellington (Somerset West and Taunton),23.8,11.7,3.4
+E63006262,North Baddesley,26.5,13.9,3.7
+E63006272,Eastleigh,17.3,7.8,2.3
+E63006275,Burgess Hill,19.4,9.4,2.9
+E63006277,Great Torrington,25.8,12.8,4.1
+E63006303,Bishop's Waltham,27.7,13.7,3.9
+E63006328,Sherborne,32.1,18.5,6.5
+E63006330,Hassocks and Hurstpierpoint,22.9,12.2,4.1
+E63006331,Battle,26.2,12.9,4
+E63006340,Henfield,29.1,16.2,5.2
+E63006342,Yeovil,19,9,2.8
+E63006362,West End (Eastleigh),23.7,11.3,3.3
+E63006365,Storrington,34,16.8,4.8
+E63006368,Ilminster,28.7,15.3,5
+E63006382,Southampton,13.8,6.3,1.9
+E63006386,Hedge End,17.1,8.1,2.3
+E63006388,Totton,20.4,9.6,3
+E63006399,Botley,17.3,8.2,2.3
+E63006406,Horndean,24.1,11.5,3.3
+E63006416,Tiverton,21.9,10.8,3.2
+E63006430,Denmead,25.8,12.7,4.4
+E63006439,Hastings,20.3,9,2.5
+E63006447,Steyning,32.8,16.8,4.7
+E63006457,Marchwood,18.1,7,1.9
+E63006461,Lewes,21.7,10.3,3.1
+E63006463,Bursledon,15,6.7,1.6
+E63006464,Hailsham,24.8,12.7,3.9
+E63006465,Whiteley,10.6,4.2,0.9
+E63006470,Crewkerne,28.4,13.8,3.7
+E63006474,Waterlooville,22.4,11.1,3.2
+E63006478,Chard,24,11.8,3.7
+E63006482,Verwood,27.6,14.1,3.9
+E63006483,Netley,25.3,12.4,4
+E63006492,Bexhill-on-Sea,34.5,17.8,5.7
+E63006505,Cullompton,19.2,9.2,3.1
+E63006507,Havant,18.1,8.3,2.6
+E63006508,Hythe and Dibden Purlieu,27.3,14.1,4.2
+E63006509,Locks Heath,22.2,10.6,3.2
+E63006511,Blandford Forum,24.7,11.8,3.6
+E63006516,Emsworth,33.2,17.7,5.9
+E63006520,Brighton and Hove,14,6.4,2
+E63006525,Bude,29.8,14.5,4.4
+E63006527,Fareham,24.3,12.6,4
+E63006530,Ringwood,25.4,13.5,4.1
+E63006535,Southwick (Adur),20.6,10.6,3.1
+E63006538,Shoreham-by-Sea,23.4,11.3,3.4
+E63006540,Barnham (Arun),24.1,11.3,3.6
+E63006541,Chichester,23.5,12.4,4.2
+E63006542,Lancing and Sompting,25.4,12.9,3.7
+E63006546,Polegate,27.4,14.4,4.8
+E63006549,Worthing,22.6,11.3,3.6
+E63006550,Stone Cross,16.1,7.4,1.7
+E63006559,Holbury,25.5,11.4,2.8
+E63006564,Wick (Arun),15.9,6.8,1.7
+E63006566,Ashley Heath,42.5,20.7,5.9
+E63006568,Rustington,37.4,20,6.2
+E63006570,Lower Willingdon,35.1,18.5,5.3
+E63006572,Yapton,21.8,9.1,2.4
+E63006574,Portsmouth,15.7,7.3,2.2
+E63006577,West Moors,38.2,20.7,6.5
+E63006581,Lee-on-the-Solent,31.1,15.5,4.4
+E63006586,Littlehampton,24.2,11.6,3.4
+E63006598,Blackfield and Langley,27.3,12.4,3.5
+E63006602,Eastbourne,24.2,12.3,4
+E63006603,Peacehaven,24.4,12.1,3.3
+E63006607,Newhaven,19.7,9,2.4
+E63006611,Wimborne Minster,27.9,14.2,4.3
+E63006612,Ferndown,40.3,22.6,8.2
+E63006613,Gosport,20.4,9.5,2.8
+E63006615,Honiton,29.2,15.7,4.8
+E63006618,Bognor Regis,27.7,14.1,4.3
+E63006619,Crediton,24.2,11.9,3.7
+E63006624,South Hayling,37.1,19.4,5.7
+E63006626,Seaford,35,17.9,5.8
+E63006638,Axminster,26.7,13.7,3.9
+E63006650,Merley,29.5,14.8,3.9
+E63006662,East Wittering,33.5,18.1,5.4
+E63006669,Corfe Mullen,24.2,11,2.9
+E63006671,Lymington,32.1,17,6
+E63006672,Ashley (New Forest),30,14.8,3.9
+E63006673,Ottery St Mary,24.4,11.8,3.5
+E63006674,Okehampton,22.8,11.7,3.4
+E63006678,New Milton,32.5,18,6
+E63006679,East Cowes,23.8,10.3,2.2
+E63006681,Cowes,25.3,12.3,3.4
+E63006696,"Christchurch (Bournemouth, Christchurch and Poole)",31.7,16.9,5.5
+E63006697,Barton on Sea,50.8,27.6,9.1
+E63006699,Bournemouth,18,8.8,2.9
+E63006700,Selsey,37.1,18.8,5.6
+E63006709,Upton (Dorset),23.2,11,3.1
+E63006712,Bridport,34.8,16.7,5.1
+E63006718,Exeter,15.9,7.7,2.3
+E63006720,Poole,22.7,11.3,3.5
+E63006721,Ryde,24.3,11,3
+E63006732,Seaton (East Devon),44,24.6,8.5
+E63006736,Dorchester (Dorset),27.8,14.9,5
+E63006744,Newport (Isle of Wight),20.1,9.5,2.6
+E63006750,Sidmouth,43.2,24.4,8.8
+E63006753,Wool,17.5,8.8,2.8
+E63006755,Wareham,31.6,16,4.7
+E63006762,Freshwater and Totland,39.9,19.9,5.9
+E63006785,Launceston,21.5,10.9,3.5
+E63006791,Sandown,29.7,14.8,4.2
+E63006799,Budleigh Salterton,45.5,24.8,8.1
+E63006801,Exmouth,28.8,14.5,4.6
+E63006804,Weymouth,27.2,12.9,3.9
+E63006806,Shanklin,33.2,15.1,4.3
+E63006818,Swanage,34.9,17.8,5.7
+E63006824,Bovey Tracey,34.7,19.6,6.3
+E63006825,Ventnor,33.7,15.2,4.7
+E63006826,Dawlish,30.3,14.4,3.9
+E63006842,Teignmouth,30.1,14.3,4.4
+E63006844,Tavistock,30.1,15.1,4.5
+E63006849,Kingsteignton,22.4,10.9,3.2
+E63006852,Wadebridge,29.8,15.7,4.9
+E63006857,Weston (Dorset),24.5,10.1,2.4
+E63006861,Newton Abbot,20.9,9.7,2.8
+E63006889,Bodmin,19.7,9.3,2.5
+E63006890,Torquay,24.4,11.8,3.6
+E63006895,Liskeard,22.6,10.8,3.5
+E63006905,Newquay,20.1,9.2,2.7
+E63006907,Totnes,26.8,12.6,3.7
+E63006916,Paignton,26.4,12.7,3.7
+E63006918,Saltash,26.4,12.1,3.1
+E63006926,Plymouth,18.6,8.7,2.5
+E63006932,Ivybridge,21.1,9.5,2.4
+E63006936,Brixham,33.8,16.4,4.4
+E63006937,Torpoint,24.8,11.3,3.2
+E63006948,St Blazey,21.6,9.9,2.8
+E63006950,Looe,33.8,16.1,6.2
+E63006956,St Austell,22.7,10.8,3.1
+E63006970,Dartmouth,32.5,15.4,4.6
+E63006998,Truro,22.5,11.7,3.6
+E63007004,Kingsbridge,29.6,15.5,5.7
+E63007009,Pool and Illogan,21.8,10.1,2.4
+E63007015,Redruth,20.1,9.7,2.7
+E63007021,St Ives (Cornwall),27.7,12.2,3.1
+E63007022,Camborne,21.2,10,2.9
+E63007038,Hayle,24.6,11.6,3.1
+E63007051,Penryn,15.1,7,1.9
+E63007057,Falmouth,21.2,9.9,3
+E63007065,Penzance,26.6,12.8,3.7
+E63007077,Helston,20.8,10.2,2.9
